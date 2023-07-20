@@ -52,6 +52,10 @@ nav ul li:hover {
       font-weight: 600;
       font-size: 16px;
       color: #ffffff;
+      cursor: pointer;
+    }
+    .logo{
+      cursor: pointer;
     }
     section{
       display: flex;
@@ -91,6 +95,7 @@ nav ul li:hover {
       border: none;
       background-color: #5955b3;
       border-radius: 10px;
+      cursor: pointer;
     }
     img{
       display: flex;
